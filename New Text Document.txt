@@ -1,0 +1,35 @@
+https://www.youtube.com/watch?v=FTAPjr7vgxE
+
+https://www.liquidweb.com/kb/how-to-troubleshoot-a-slow-loading-website/
+
+https://www.youtube.com/watch?v=e4S8zfLdLgQ
+
+
+
+
+https://www.youtube.com/watch?v=Y3u2groOG-A
+
+https://www.youtube.com/watch?v=iYM2zFP3Zn0
+
+
+https://www.youtube.com/watch?v=eesqK59rhGA
+
+
+Docker :-
+Docker quick start
+docker deep dive
+docker certified associate prep course
+
+
+Kubernetes:
+
+Certified kubernetes Administrator
+Kubernetes the hardway
+
+
+
+DEVOPS
+Devops Essentilas 
+implementing a full CICD pipeline
+
+
